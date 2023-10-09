@@ -1,5 +1,6 @@
-# Music-Player
-# ↻      ◁     ||     ▷       ↺
+# ıı||ı|ıı| Music-Player ||ııı||ı
+# ⩇⩇:⩇⩇🎧
+
 Using this music player is very simple!
 Hope you enjoy🥰
 
