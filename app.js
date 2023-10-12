@@ -37,4 +37,3 @@ progress.onchange = function () {
     ctrIcon.classList.remove("fa-play");
 
 }
-
