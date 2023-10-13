@@ -55,9 +55,10 @@ nav .circle {
 
 .img-sara {
     width: 220px;
-    border-radius: 50%;
-    border: 8px solid var(--white);
-    box-shadow: 0 5px 8px var(--shadow);
+    border-radius: 300px;
+    border: 10px dotted var(--white);
+
+    box-shadow: 0 4px 8px 1px var(--shadow);
 
 }
 
@@ -90,7 +91,7 @@ nav .circle {
     height: 30px;
     border-radius: 50%;
     border: 8px solid var(--white);
-    box-shadow: 0 5px 8px var(--shadow);
+    box-shadow: 0 3px 8px var(--shadow);
 }
 
 .controls {
@@ -109,7 +110,7 @@ nav .circle {
     align-items: center;
     border-radius: 50%;
     color: var(--purple);
-    box-shadow: 0 10px 20px var(--shadow);
+    box-shadow: 0 4px 16px var(--shadow);
     cursor: pointer;
 }
 
